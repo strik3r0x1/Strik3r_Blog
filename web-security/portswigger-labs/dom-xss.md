@@ -1,6 +1,6 @@
 # DOM XSS
 
-This article is a write-up on apprentice-level lab challenge from [Portswigger Academy](https://portswigger.net).
+This article is a write-up on apprentice-level lab challenge from [Portswigger Academy](https://portswigger.net/).
 
 <mark style="color:orange;">**Lab Description:**</mark>
 
