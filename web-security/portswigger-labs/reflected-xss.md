@@ -14,13 +14,13 @@ XSS attacks occur when an attacker uses a web application to send malicious code
 
 Flaws that allow these attacks to succeed are quite widespread and occur anywhere a web application uses input from a user within the output it generates without validating or encoding it.
 
-#### <mark style="color:orange;">**Lab Description**</mark>
+### <mark style="color:orange;">**Lab Description**</mark>
 
 This lab contains a reflected cross-site scripting vulnerability in the search blog functionality where angle brackets are HTML-encoded. To solve this lab, perform a cross-site scripting attack that injects an attribute and calls the alert function.
 
 <mark style="color:orange;">****</mark>
 
-<mark style="color:orange;">**Solution**</mark>
+### <mark style="color:orange;">**Solution**</mark>
 
 * As always try to type anything and see where it will reflect
 
