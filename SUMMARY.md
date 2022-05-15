@@ -10,5 +10,5 @@
 
 ## CTF
 
-* [CyberTalents](ctf/cybertalents/README.md)
-  * [Private Agent](ctf/cybertalents/private-agent.md)
+* [CyberTalents Challenges](ctf/cybertalents-challenges/README.md)
+  * [Private Agent](ctf/cybertalents-challenges/private-agent.md)
