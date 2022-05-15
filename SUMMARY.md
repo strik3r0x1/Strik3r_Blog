@@ -8,7 +8,6 @@
   * [DOM XSS](web-security/portswigger-labs/dom-xss.md)
   * [Reflected XSS](web-security/portswigger-labs/reflected-xss.md)
 
-## CTF
+## CyberTalents Challenges
 
-* [CyberTalents Challenges](ctf/cybertalents-challenges/README.md)
-  * [Private Agent](ctf/cybertalents-challenges/private-agent.md)
+* [Private Agent](cybertalents-challenges/private-agent.md)
