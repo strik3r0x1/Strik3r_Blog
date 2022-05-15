@@ -8,7 +8,7 @@ CyberTalents provides recruitment & personnel assessment to its customers in a S
 
 
 
-|                                              Links                                              |
+|                                                                                                 |
 | :---------------------------------------------------------------------------------------------: |
 |                      [https://cybertalents.com](https://cybertalents.com/)                      |
 | [https://www.facebook.com/cybertalentsofficial](https://www.facebook.com/cybertalentsofficial/) |
