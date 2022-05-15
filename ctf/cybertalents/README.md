@@ -1,6 +1,6 @@
 # CyberTalents
 
-![](../../.gitbook/assets/Cyber-Talent.jpg)
+![](../../.gitbook/assets/9064Logo.png)
 
 Cyber Talents is a platform that rank cyber security talents according to their real hands on skills in different cyber security categories by running capture the flag (CTF) competitions in order to be hired by recruiters .&#x20;
 
