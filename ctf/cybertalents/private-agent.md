@@ -1,3 +1,7 @@
+---
+description: Private Agent Challenge From CyberTalents | Web - Easy
+---
+
 # Private Agent
 
 ### <mark style="color:yellow;">**Challenge Description**</mark>
