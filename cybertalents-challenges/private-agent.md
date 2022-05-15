@@ -4,6 +4,10 @@ description: Private Agent Challenge From CyberTalents | Web - Easy
 
 # Private Agent
 
+Hello Hackers !!
+
+In this post i\`ll share my walkthrough for [Private Agent Challenge](https://cybertalents.com/challenges/web/private-agent) from CyberTalents.
+
 ### <mark style="color:yellow;">**Challenge Description**</mark>
 
 Only private agents can make their way to the gate.
@@ -24,7 +28,7 @@ You can know more about User Agent from [Mozilla Developers](https://developer.m
 
 Once we get into challenge link we got this page contain a message that tell us that “Private agent only can get in” and memory eraser from men in black movie 😎
 
-![](../../.gitbook/assets/0)
+![](../.gitbook/assets/0)
 
 ### <mark style="color:yellow;">**Keep It Simple**</mark>
 
@@ -36,20 +40,20 @@ Also this Challenge rating is easy, so you must start from basics things.
 
 You will notice that there is nothing in this section of the page.
 
-![](../../.gitbook/assets/1)
+![](../.gitbook/assets/1)
 
 But wait, just scroll a bit for bottom of the page.
 
 You will find this comment **`<!-- TO_Be_RemovedTO_Be_Removed => Privet-Agent access => givittome -->`**
 
-![](<../../.gitbook/assets/2 (1)>)
+![](<../.gitbook/assets/2 (1)>)
 
 So without any other thinking inject this value `givittome` in **user-agent** header in burpsuit
 
-![](../../.gitbook/assets/3)
+![](../.gitbook/assets/3)
 
 Notice the flag is been appeared in response headers
 
 <mark style="color:red;">**FLAG: W3lcome\_Ag3nt8**</mark>
 
-![](../../.gitbook/assets/4)
+![](../.gitbook/assets/4)
